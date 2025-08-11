@@ -1,2 +1,3 @@
-# Database
-Tokenbotz
+}
+  "tokens": ["7582985051:AAFpOEusyfOWD5wZLyxACCWqR5LeNXY5Y9k"]
+}
